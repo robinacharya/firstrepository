@@ -1,2 +1,2 @@
-# firstrepository
-I Want to create a new repository
+# First Repo
+I Want to create a new Repo
